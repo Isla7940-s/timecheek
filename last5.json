@@ -23,8 +23,8 @@
   },
   "2025-05-10": {
     "math-5": {
-      "done": true,
-      "count": 0
+      "done": false,
+      "count": null
     },
     "eng-2": {
       "done": false,
